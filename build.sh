@@ -1,0 +1,1 @@
+g++ main.cpp Board.cpp Camera.cpp Piece.cpp ObjLoader.cpp Particle.cpp Menu.cpp stb_image.cpp ./ChessAI/aiplayer.cpp ./ChessAI/chessboard.cpp ./ChessAI/humanplayer.cpp -lglut -lGLU -lGL -lm -w -o chess3d

@@ -1,0 +1,29 @@
+newmtl ChessBoard:Board
+illum 4
+Kd 0.50 0.60 0.40
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Map__3_Checker.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 200.00
+
+newmtl ChessBoard:Material__12
+illum 4
+Kd 0.50 0.40 0.60
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd WALNUT3.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 200.00
+
+newmtl ChessBoard:WhiteSquares
+illum 4
+Kd 0.40 0.60 0.50
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Oak1.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 200.00

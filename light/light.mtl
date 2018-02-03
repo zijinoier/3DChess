@@ -1,0 +1,9 @@
+newmtl light:wire_027177027
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd metal.png
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 31.37
